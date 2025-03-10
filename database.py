@@ -3,7 +3,7 @@ import psycopg2
 # PostgreSQL Database Configurations
 DB_NAME = "task_db"
 DB_USER = "task_user"
-DB_PASS = "Password@69911"
+DB_PASS = "Password"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
